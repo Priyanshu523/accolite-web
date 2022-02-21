@@ -1,0 +1,33 @@
+.container{
+    padding:3em;
+    
+    background: rgb(128, 119, 119);
+    position: absolute;
+    top: 10em;
+    left: 7em;
+}
+
+
+.login{
+    padding:2px;
+    margin:1px;
+    position: absolute;
+    top:1px;
+    left:13em;
+}
+
+.b1{
+    padding:2px;
+    margin: 1px;
+    position: absolute;
+    left:10em;
+
+}
+
+.b2{
+    padding:2px;
+    margin: 1px;
+    position: absolute;
+    left:16em;
+    
+}

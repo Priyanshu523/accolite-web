@@ -1,0 +1,19 @@
+
+
+.container{
+    padding:20%;
+}
+
+#progressbar {
+    background-color: black;
+    border-radius: 13px;
+    
+    padding: 3px;
+  }
+  
+  #progressbar>div {
+    background-color: rgb(5, 133, 5);
+    width: 40%;
+    height: 20px;
+    border-radius: 10px;
+  }
